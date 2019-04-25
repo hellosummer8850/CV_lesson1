@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e1f976f-9376-4018-86f7-ba10c35ba264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework2_ver_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,26 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/homework2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="222" lean-forward="true" selection-start-line="222" selection-end-line="222" />
-              <folding>
-                <element signature="e#1191#1954#0" />
-                <element signature="e#2480#2793#0" />
-                <element signature="e#2704#2819#0" />
-                <element signature="e#3014#3512#0" />
-                <element signature="e#6712#7597#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework2_ver_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="20" column="34" lean-forward="true" selection-start-line="2" selection-end-line="20" selection-end-column="34" />
+              <caret line="20" column="34" selection-start-line="2" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -73,6 +57,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,7 +69,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,6 +153,9 @@
       <updated>1555472183210</updated>
       <workItem from="1555472187380" duration="15194000" />
       <workItem from="1555575442836" duration="16182000" />
+      <workItem from="1555595367058" duration="8000" />
+      <workItem from="1555980067631" duration="19000" />
+      <workItem from="1555980139376" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="add homework file">
       <created>1555472294768</created>
@@ -181,12 +168,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31376000" />
+    <option name="totallyTimeSpent" value="32006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19010562" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19844358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,24 +205,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="add homework file" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/homework2_ver_1.py">
+    <entry file="file://$PROJECT_DIR$/homework2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="2" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="715">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework2.py">
+    <entry file="file://$PROJECT_DIR$/homework2_ver_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="222" lean-forward="true" selection-start-line="222" selection-end-line="222" />
-          <folding>
-            <element signature="e#1191#1954#0" />
-            <element signature="e#2480#2793#0" />
-            <element signature="e#2704#2819#0" />
-            <element signature="e#3014#3512#0" />
-            <element signature="e#6712#7597#0" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="20" column="34" selection-start-line="2" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
